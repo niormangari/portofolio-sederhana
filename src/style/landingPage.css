@@ -12,7 +12,13 @@ body {
   text-shadow: 1px 1px 2px black;
  
 }
-.list_navbar {
+.text_brand {
+  color: white;
+}
+.text_link {
+  color: white;
+}
+/* .list_navbar {
   list-style-type: none;
   display: flex;
 }
@@ -22,7 +28,7 @@ body {
   font-weight: bold;
   margin-right: 40px;
 
-}
+} */
 /* End Navbar */
 
 /* Content */
