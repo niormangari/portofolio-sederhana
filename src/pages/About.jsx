@@ -1,7 +1,7 @@
 const About = () => {
   return (
     <>
-      <div className="text_about container text-center mt-5" id="about">
+      <div className="text_about container text-center mt-5" >
         <h3>About</h3>
         <div className="row">
           <div className="col-md-4">
