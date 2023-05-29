@@ -1,9 +1,9 @@
 const About = () => {
   return (
     <>
-      <div className="text_about container text-center mt-5" >
-        <h3>About</h3>
+      <div className="text_about container text-center mt-5">
         <div className="row">
+          <h3>About</h3>
           <div className="col-md-4">
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quam iusto corporis corrupti! Quos alias vero error nemo, corrupti debitis nobis delectus animi maxime voluptatibus quidem culpa magni inventore non. Dolor?</p>
           </div>

@@ -47,6 +47,35 @@ body {
 }
 /* End About */
 
+/* Skill */
+.img_skill {
+  width: auto;
+  height: 75px;
+  object-fit: cover;
+}
+.row_skill {
+  display: flex;
+  justify-content: center;
+}
+.container_img_skill {
+  display: flex;
+  justify-content: center;
+  border-radius: 10px;
+}
+/* End Skill */
+
+/* Project */
+.title_project {
+  font-family: "Poppins", sans-serif;
+}
+.img_card {
+  width: auto;
+  height: 150px;
+  object-fit: cover;
+}
+
+/* End Project */
+
 /* Contact */
 .text_contact {
   font-family: "Poppins", sans-serif;
@@ -67,5 +96,6 @@ body {
   text-align: center;
   padding: 10px;
   background-color: #add8e6;
+  font-family: "Poppins", sans-serif;
 }
 /* End Footer */

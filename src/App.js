@@ -3,6 +3,8 @@ import Footer from "./components/Footer";
 import Navi from "./components/Navi";
 import About from "./pages/About";
 import Contact from "./pages/Contact";
+import Project from "./pages/Project";
+import Skill from "./pages/Skill";
 
 import "./style/landingPage.css";
 
@@ -12,6 +14,8 @@ const App = () => {
       <Navi />
       <Content />
       <About />
+      <Skill />
+      <Project />
       <Contact />
       <Footer />
     </>
