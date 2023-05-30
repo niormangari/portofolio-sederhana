@@ -4,22 +4,23 @@ import Logo from "../images/nior.jpg";
 const Content = () => {
   return (
     <>
-      <div className="container-fluit container_content " id="home">
-        <div className="row row_content col-md-12">
-          <div className="col-md-6 ">
+      <div className="container-fluid container_content ">
+        <div className="row">
+          <div className="col-md-4">
             <div className="text_profile ">
               <h3>Hai, My Name Is</h3>
               <h3>Junior</h3>
               <p>i am a freelancer front-end developer</p>
             </div>
           </div>
-          <div className="col-md-6 ">
+          <div className="col-md-8">
             <div className="image_box">
               <img className="image" src={Logo} alt="nior" />
             </div>
           </div>
         </div>
       </div>
+
       <div className="" id="about">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
           <path
