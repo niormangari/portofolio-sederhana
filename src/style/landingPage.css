@@ -49,8 +49,7 @@ body {
 
 /* Skill */
 .img_skill {
-  width: auto;
-  height: 75px;
+
   object-fit: cover;
 }
 .row_skill {

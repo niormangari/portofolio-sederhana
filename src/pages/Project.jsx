@@ -7,7 +7,7 @@ function Project() {
   return (
     <>
       <div className="container text-center">
-        <div className="row  p-4 ">
+        <div className="row  p-5 ">
           <h3 className="title_project">Project</h3>
           <div className="col-md-3  mt-3">
             <div className="card shadow ">
