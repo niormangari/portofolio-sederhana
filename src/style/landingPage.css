@@ -39,7 +39,7 @@ body {
 
 .text_profile {
   padding-left: 50px;
-  padding-top: 10px;
+  padding-top: 120px;
   font-family: "Poppins", sans-serif;
 }
 /* End Content */
@@ -76,6 +76,7 @@ body {
 .card_body_project {
   height: 170px;
 }
+
 
 /* End Project */
 
