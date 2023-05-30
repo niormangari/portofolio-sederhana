@@ -16,6 +16,9 @@ const Contact = () => {
         <a href="https://github.com/niormangari ">
           <img className="logo_contact" src="https://tse3.mm.bing.net/th?id=OIP.ckeUFk-yid0vfWnd56w7wAHaHa&pid=Api&P=0&h=180" alt="github" />
         </a>
+        <a href="mailto:niormangari@gmail.com">
+          <img className="logo_contact" src="https://tse1.mm.bing.net/th?id=OIP.DKnMNGB6q4y3Iqtnt7X5WAHaHa&pid=Api&P=0&h=180" alt="email" />
+        </a>
       </div>
     </>
   );

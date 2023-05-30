@@ -24,7 +24,7 @@ const About = () => {
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis, libero unde harum nam illum molestiae omnis accusamus amet possimus labore aliquid sint hic voluptatibus nobis dignissimos minus placeat optio corporis.
             </p>
           </div>
-          <div className="col-md-4">
+          <div className="col-md-4" id="skill">
             <p className="">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis, libero unde harum nam illum molestiae omnis accusamus amet possimus labore aliquid sint hic voluptatibus nobis dignissimos minus placeat optio corporis.
             </p>

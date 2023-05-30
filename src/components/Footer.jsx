@@ -12,8 +12,8 @@ const Footer = () => {
           ></path>
         </svg>
       </div>
-      <div className="text_footer">
-        <p>create by junior🤠</p>
+      <div className="text_footer  ">
+        <p className="shadow">Junior🤠</p>
       </div>
     </>
   );

@@ -1,5 +1,6 @@
 html,
 body {
+  height: 100%;
   margin: 0;
   padding: 0;
   background-color: #ffffff;
@@ -38,7 +39,7 @@ body {
 
 .text_profile {
   padding-left: 50px;
-  padding-top: 130px;
+  padding-top: 10px;
   font-family: "Poppins", sans-serif;
 }
 /* End Content */
@@ -94,8 +95,9 @@ body {
 
 /* Footer */
 .text_footer {
+  color: #ffffff;
+  text-shadow: 1px 2px 3px black;
   text-align: center;
-  padding: 10px;
   background-color: #add8e6;
   font-family: "Poppins", sans-serif;
 }

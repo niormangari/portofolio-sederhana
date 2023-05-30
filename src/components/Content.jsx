@@ -4,7 +4,7 @@ import Logo from "../images/nior.jpg";
 const Content = () => {
   return (
     <>
-      <div className="container-fluid container_content ">
+      <div className="container-fluid container_content " id="home">
         <div className="row">
           <div className="col-md-4">
             <div className="text_profile ">
