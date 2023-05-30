@@ -3,6 +3,7 @@ body {
   height: 100%;
   margin: 0;
   padding: 0;
+  background-color: #ffffff;
 }
 
 /* Navbar */
@@ -21,22 +22,24 @@ body {
 /* End Navbar */
 
 /* Content */
-.container_image {
-  padding: 100px;
+.container_content {
   background-color: #add8e6;
+  height: auto;
 }
-.image_box {
-  display: flex;
-  justify-content: center;
-}
-
 .image {
   height: 200px;
   width: auto;
   border-radius: 50%;
 }
+.image_box {
+  margin-top: 120px;
+  display: flex;
+  justify-content: center;
+}
+
 .text_profile {
-  text-align: center;
+  margin-left: 100px;
+  margin-top: 150px;
   font-family: "Poppins", sans-serif;
 }
 /* End Content */
@@ -49,7 +52,6 @@ body {
 
 /* Skill */
 .img_skill {
-
   object-fit: cover;
 }
 .row_skill {
@@ -64,13 +66,16 @@ body {
 /* End Skill */
 
 /* Project */
-.title_project {
+.row_project {
   font-family: "Poppins", sans-serif;
 }
 .img_card {
   width: auto;
   height: 150px;
   object-fit: cover;
+}
+.card_body_project {
+  height: 170px;
 }
 
 /* End Project */

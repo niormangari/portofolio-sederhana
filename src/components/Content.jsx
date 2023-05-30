@@ -4,13 +4,20 @@ import Logo from "../images/nior.jpg";
 const Content = () => {
   return (
     <>
-      <div className="container_image " id="home">
-        <div className="image_box">
-          <img className="image" src={Logo} alt="nior" />
-        </div>
-        <div className="text_profile mt-2 ">
-          <h3>Junior</h3>
-          <p>Front End Developer</p>
+      <div className="container-fluit container_content " id="home">
+        <div className="row row_content col-md-12">
+          <div className="col-md-6 ">
+            <div className="text_profile ">
+              <h3>Hai, My Name Is</h3>
+              <h3>Junior</h3>
+              <p>i am a freelancer front-end developer</p>
+            </div>
+          </div>
+          <div className="col-md-6 ">
+            <div className="image_box">
+              <img className="image" src={Logo} alt="nior" />
+            </div>
+          </div>
         </div>
       </div>
       <div className="" id="about">

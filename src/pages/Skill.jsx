@@ -3,8 +3,8 @@ import React from "react";
 function Skill() {
   return (
     <>
-      <div className="container">
-        <div className="row row_skill gap-5 p-5  ">
+      <div className="container" >
+        <div className="row row_skill gap-3 p-5  ">
           <h3 className="text-center">Skill</h3>
           <div className="col-md-2 shadow  container_img_skill ">
             <img src={require("../images/html.png")} alt="html" className="img_skill" />
@@ -25,7 +25,7 @@ function Skill() {
             {" "}
             <img src={require("../images/express.png")} alt="expressjs" className="img_skill" />
           </div>
-          <div className="col-md-2 shadow container_img_skill">
+          <div className="col-md-2 shadow container_img_skill" id="project">
             <img src={require("../images/git.png")} alt="git" className="img_skill" />
           </div>
         </div>

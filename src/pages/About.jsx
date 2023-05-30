@@ -3,28 +3,34 @@ import React from "react";
 const About = () => {
   return (
     <>
-      <div className="text_about container text-center mt-5">
+      <div className="text_about container mt-5  ">
         <div className="row">
-          <h3>About</h3>
+          <h3 className="text-center mb-3">About</h3>
           <div className="col-md-4">
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quam iusto corporis corrupti! Quos alias vero error nemo, corrupti debitis nobis delectus animi maxime voluptatibus quidem culpa magni inventore non. Dolor?</p>
+            <p className="">
+              <b>Name : </b>Yohanes Christian Junior Mangari
+              <br />
+              <b>Nickname : </b>Junior || Weks
+              <br />
+              <b>Age : </b>20 years
+              <br />
+              <b>College : </b>MH Thamrin University
+              <br />
+              <b>Major : </b>Informatics Engineering
+            </p>
           </div>
           <div className="col-md-4">
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quam iusto corporis corrupti! Quos alias vero error nemo, corrupti debitis nobis delectus animi maxime voluptatibus quidem culpa magni inventore non. Dolor?</p>
+            <p className="">
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis, libero unde harum nam illum molestiae omnis accusamus amet possimus labore aliquid sint hic voluptatibus nobis dignissimos minus placeat optio corporis.
+            </p>
           </div>
           <div className="col-md-4">
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quam iusto corporis corrupti! Quos alias vero error nemo, corrupti debitis nobis delectus animi maxime voluptatibus quidem culpa magni inventore non. Dolor?</p>
+            <p className="">
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis, libero unde harum nam illum molestiae omnis accusamus amet possimus labore aliquid sint hic voluptatibus nobis dignissimos minus placeat optio corporis.
+            </p>
           </div>
         </div>
       </div>
-      {/* <div className="text_about">
-        <h1>About</h1>
-        <div className="p_about">
-          <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quam iusto corporis corrupti! Quos alias vero error nemo, corrupti debitis nobis delectus animi maxime voluptatibus quidem culpa magni inventore non. Dolor?</p>
-          <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quam iusto corporis corrupti! Quos alias vero error nemo, corrupti debitis nobis delectus animi maxime voluptatibus quidem culpa magni inventore non. Dolor?</p>
-          <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quam iusto corporis corrupti! Quos alias vero error nemo, corrupti debitis nobis delectus animi maxime voluptatibus quidem culpa magni inventore non. Dolor?</p>
-        </div>
-      </div> */}
     </>
   );
 };

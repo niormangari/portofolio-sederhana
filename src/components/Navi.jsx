@@ -19,6 +19,12 @@ const Navi = () => {
               <a className="text-link nav-link active" href="#about">
                 About
               </a>
+              <a className="text-link nav-link active" href="#skill">
+                Skill
+              </a>
+              <a className="text-link nav-link active" href="#project">
+                Project
+              </a>
               <a className="text-link nav-link active" href="#contact">
                 Contact
               </a>
