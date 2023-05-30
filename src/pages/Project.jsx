@@ -15,7 +15,7 @@ function Project() {
               <div className="card-body">
                 <h5 className="card-title">My Portofolio</h5>
                 <p className="card-text">ReactJs, Bootstrap</p>
-                <a href="http://weks.netlify.app/" className="btn btn-primary" target="_blank">
+                <a href="http://weks.netlify.app/" className="btn btn-primary" target="_blank" rel="noreferrer">
                   View
                 </a>
               </div>
@@ -27,7 +27,7 @@ function Project() {
               <div className="card-body">
                 <h5 className="card-title">Coffee Shop</h5>
                 <p className="card-text">ReactJs, ExpressJs, Bootstrap</p>
-                <a href="https://wekscoffee.netlify.app/" className="btn btn-primary" target="_blank">
+                <a href="https://wekscoffee.netlify.app/" className="btn btn-primary" target="_blank" rel="noreferrer">
                   View
                 </a>
               </div>
@@ -39,7 +39,7 @@ function Project() {
               <div className="card-body">
                 <h5 className="card-title">Landing Page Anime</h5>
                 <p className="card-text">ReactJs, Bootstrap</p>
-                <a href="https://thismycharacter.netlify.app/" className="btn btn-primary" target="_blank">
+                <a href="https://thismycharacter.netlify.app/" className="btn btn-primary" target="_blank" rel="noreferrer">
                   View
                 </a>
               </div>
@@ -51,7 +51,7 @@ function Project() {
               <div className="card-body">
                 <h5 className="card-title">My Portofolio</h5>
                 <p className="card-text">ReactJs, Bootstrap</p>
-                <a href="#" className="btn btn-primary">
+                <a href="/" className="btn btn-primary">
                   View
                 </a>
               </div>
