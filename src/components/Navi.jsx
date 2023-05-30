@@ -3,7 +3,7 @@ import React from "react";
 const Navi = () => {
   return (
     <>
-      <nav className="navbar navbar-expand-lg bg-body-tertiary ">
+      <nav className="navbar navbar-expand-lg bg-body-tertiary fixed-top ">
         <div className="container ">
           <a className=" text_brand navbar-brand navbar-dark " href="/">
             Weks.
